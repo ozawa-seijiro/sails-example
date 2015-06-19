@@ -36,7 +36,5 @@
     "url": "git://github.com/seijiroozawa/sample.git"
   },
   "author": "seijiroozawa",
-  "license": "",
-  "devDependencies": {
-  }
+  "license": ""
 }
